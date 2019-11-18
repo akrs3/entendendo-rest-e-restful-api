@@ -18,3 +18,6 @@
 * Media Type x Mime Type: a mesma coisa hahah [https://developer.mozilla.org/pt-BR/docs/Web/HTTP/Basico_sobre_HTTP/MIME_types]
 
 * Content-Type x Accept: 
+
+    - Content-type: é o campo q identifica o conteudo da requisicao, em qur formato estou enviando ao servidor
+    - Accept: o tipo que se espera receber do servidor
